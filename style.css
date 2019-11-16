@@ -1,0 +1,102 @@
+
+body{
+    background-color:#80808029;
+}
+.container-fluid {
+    background: white;
+    width: 90%;
+    padding: 20px;
+    height: 1400px;
+}
+form{
+    margin:20px 20px 20px 20px;
+}
+.jumbotron{
+    background-color: white;
+    padding: 0;
+}
+h2 {
+    border-bottom: 2px solid lightgrey;
+    color: #4b9ea9;
+    padding: 20px;
+    margin: 10px 0px 40px 0px;
+}
+
+.img-responsive{
+        margin: 20px 65px;
+        border: 1px solid lightgray;
+    }
+
+  .navbar {
+    margin: 0px 70px;
+}
+
+.inner-div {
+    background: #4b9ea9;
+    position: absolute;
+    width: 380px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin: -90px 0px -0px 65px;
+    line-height: 2.5;
+}
+
+  a {
+    float: right;
+    padding: 10px;
+    margin: -45px 12px 70px;
+    text-decoration: none;
+    color: grey;
+  }
+
+   p{
+    color:gray;
+    margin:0px 30px;
+    line-height: 35pt;
+    }
+
+   #my-pic{
+    float:left;
+    margin: 15px 50px 10px 15px;
+    width: 304px;
+    height: 263px;
+    }
+
+    input[type=message]{
+    padding:70px;
+    }
+
+    .btn-primary {
+    color: #fff;
+     background-color: #4b9ea9;
+     border-color:#4b9ea9;
+    margin-bottom: 20px;;
+        }
+
+    footer{
+    position: fixed;
+    left: 0;
+     bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    border-top: 5px solid #1791a0;
+    padding:20px;
+    }
+    .name {
+        font-size: 30px;
+        background: #4b9ea9;
+        width: 25%;
+        height: 40%;
+        text-align: center;
+        color: white;
+        line-height: 2;
+        padding: 40px;
+        margin: 0 80px 0 70px;
+    }
+
+    .inner-portfolio{
+        padding: 0 px 30px;
+    }

@@ -26,7 +26,10 @@ h2 {
         margin: 20px 65px;
         border: 1px solid lightgray;
     }
-
+.img-Jenny{
+    margin: 20px 25px;
+        border: 1px solid lightgray;
+}
   .navbar {
     margin: 0px 70px;
 }
@@ -54,6 +57,7 @@ h2 {
     color:gray;
     margin:0px 30px;
     line-height: 35pt;
+    margin-left:20px;
     }
 
    #my-pic{

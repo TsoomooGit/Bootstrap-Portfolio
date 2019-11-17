@@ -37,7 +37,7 @@ h2 {
 .inner-div {
     background: #4b9ea9;
     position: absolute;
-    width: 380px;
+    width: 320px;
     height: 40px;
     color: white;
     text-align: center;
@@ -101,6 +101,4 @@ h2 {
         margin: 0 80px 0 70px;
     }
 
-    .inner-portfolio{
-        padding: 0 px 30px;
-    }
+   
